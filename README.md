@@ -1,9 +1,11 @@
-# Adfind v.1.5 (meowproject)
+# Findlogin v.1.5 (meowproject)
 
-Adfind is tools for search page admin login website for fast<br>
+findlogin is tools for search page admin login website for fast<br>
 ![alt text](https://img.shields.io/badge/Coded-penucuriCode-blue.svg)
 ![alt text](https://img.shields.io/badge/Size-143.00KB-yellow.svg)
-![alt text](https://img.shields.io/badge/Python-3-green.svg)
+![alt text](https://img.shields.io/badge/Python-3-green.svg)<br>
+![shot](https://github.com/penucuriCode/findlogin/blob/main/img/result.PNG)
+
 
 # Adfind feature
 - [x] fast search
@@ -20,7 +22,5 @@ $ git clone https://github.com/penucuriCode/findlogin
 $ cd findlogin
 $ pip install -r requirement.txt
 $ pip install asyncio aiohttp time socket request
-$ python findlogin.py
+$ python adfind.py
 ```
-# Screenshot
-<img src="img/adfind.png" />
