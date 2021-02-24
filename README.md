@@ -7,12 +7,12 @@ findlogin is tools for search page admin login website for fast<br>
 ![shot](https://github.com/penucuriCode/findlogin/blob/main/img/result.PNG)
 
 
-# Adfind feature
-- [x] fast search
-- [x] much wordlist
-- [x] good connection
-- [x] support for termux
-- [x] coming soon for another os
+# Find Login feature
+- [x] Fast search
+- [x] Much wordlist
+- [x] Good connection
+- [x] Support for termux
+- [x] Coming soon for another os
 
 # [ Installation ]
 ```
